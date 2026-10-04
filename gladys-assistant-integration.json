@@ -6,8 +6,8 @@
     "en": "Daikin ducted air conditioning via a local Airbase (BRP15B61) adapter: mode, temperature, zones.",
     "fr": "Climatisation gainable Daikin via l'adaptateur Airbase (BRP15B61) local : mode, température, zones."
   },
-  "version": "0.1.0",
-  "docker_image": "ghcr.io/plsoftware/gladys-daikin-controller:0.1.0",
+  "version": "0.1.1",
+  "docker_image": "ghcr.io/plsoftware/gladys-daikin-controller:0.1.1",
   "gladys_version": ">=5.1.0",
   "cover_image": "https://raw.githubusercontent.com/plsoftware/gladys-daikin-controller/main/cover.png",
   "categories": [
